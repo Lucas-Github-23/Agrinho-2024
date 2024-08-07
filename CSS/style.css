@@ -57,10 +57,7 @@ main {
     min-height: calc(100vh - 80px);
 }
 
-main article {
-    padding-right: 700px;
 
-}
 
 .contato h1{
  text-align: center;
