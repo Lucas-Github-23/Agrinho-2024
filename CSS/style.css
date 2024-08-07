@@ -186,9 +186,6 @@ footer {
     order: 1; /* Posição padrão: à esquerda */
 }
 
-.content-wrapper.right img {
-    margin: 0 0 20px 20px;
-    order: 2; /* Posição à direita */
 }
 
 .text-content {
@@ -225,8 +222,4 @@ footer {
         margin: 0 0 20px 0;
     }
 
-    main article {
-        padding-right: 0px;
-
-    }
 }
